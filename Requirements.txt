@@ -1,0 +1,2 @@
+just run the following prompt in your cmd tab
+pip install requests beautifulsoup4 lxml matplotlib
