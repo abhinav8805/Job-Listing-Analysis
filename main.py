@@ -91,4 +91,5 @@ plt.xlabel('Cities', fontsize=12)
 plt.ylabel('Number of Jobs', fontsize=12)
 plt.grid(axis='y', alpha=0.3)
 
+
 plt.show()
